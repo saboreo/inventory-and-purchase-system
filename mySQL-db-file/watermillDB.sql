@@ -3,7 +3,7 @@
 -- Host: 127.0.0.1    Database: watermill
 -- ------------------------------------------------------
 -- Server version	8.0.15
-
+  
 # Create Database - watermill
 DROP DATABASE IF EXISTS watermill;
 CREATE DATABASE watermill;
